@@ -1,5 +1,4 @@
 package WordMerge;
-
 import java.util.*;
 public class wordMerge{
     public static void main(String[] args){
